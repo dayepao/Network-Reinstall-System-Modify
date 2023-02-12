@@ -59,6 +59,12 @@
 
 ## 一键网络重装系统 - 魔改版（Network-Reinstall-System-Modify）
 
+### 使用方法
+
+```shell
+wget --no-check-certificate -qO ~/Network-Reinstall-System-Modify.sh 'https://raw.githubusercontent.com/dayepao/Network-Reinstall-System-Modify/master/Network-Reinstall-System-Modify.sh' && chmod a+x ~/Network-Reinstall-System-Modify.sh && bash ~/Network-Reinstall-System-Modify.sh
+```
+
 ### 一键网络重装系统 - 魔改版
 
 [一键网络重装系统 - 魔改版（Network-Reinstall-System-Modify）](https://www.cxthhhhh.com/network-reinstall-system-modify)可以通过互联网重新安装Linux和Windows以及常用操作系统。例如：CentOS、Debian、Ubuntu、Windows 2012R2、Windows Server 2019、Proxmox-VE、OpenWRT等常见系统，还可以通过极客功能[裸机系统部署平台](https://www.cxthhhhh.com/bare-metal_system_deployment_platform)挂载网络【ISO镜像】远程安装任何系统。  
